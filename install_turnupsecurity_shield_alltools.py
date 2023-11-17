@@ -1,5 +1,3 @@
-Combined Installation Script for all TurnUpSecurity Shield Server Security Tools
-
 #!/usr/bin/env python
 
 import subprocess
